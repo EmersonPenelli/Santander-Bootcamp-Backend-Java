@@ -1,2 +1,46 @@
-# Santander-Bootcamp-Backend-Java
-Este repositório destina-se aos estudos do Bootcamp Santander - Backend Java
+# 📌 Bootcamp Santander - Backend em Java 
+Este repositório trata-se dos conteúdos do Bootcamp Santander Backend com Java | DIO
+
+
+<br>
+
+## ✔️ Tecnologias Utilizadas
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=whit)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+<br>
+
+## 📎 Sumário
+O Curso consiste em 6 módulos principais:
+- Dominando a Linguagem de Programação Java
+- Programação Orientada a Objetos com Java
+- Testes e Gerenciamento de Dependências em Projetos Java
+- Banco de Dados SQL e NOSQL apra Desenvolvedores Backend
+- Ganhando Produtividade no Java com Sprin Framework
+- Softskill na era Ágil
+
+<br>
+
+## 📝 Seções
+### 01: Dominando a Linguagem de Programação Java
+    - Modulo 01: Ambiente de Desenvolvimento Java
+    - Modulo 02: Aprendendo a Sintaxe Java
+    - Modulo 03: Em desenvolvimento...
+
+### 02: Programação Orientada a Objetos com Java
+    - Modulo 01: 
+
+
+### 03: Testes e Gerenciamento de Dependências em Projetos Java
+    - Modulo 01:
+
+<br>
+
+## 🙋🏻‍♂️ Autor
+<img src="https://avatars.githubusercontent.com/u/132641090?v=4" width="100" height="100">
+<b>Emerson Penelli</b>
