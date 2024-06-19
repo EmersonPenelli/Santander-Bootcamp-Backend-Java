@@ -1,6 +1,7 @@
 # 📌 Bootcamp Santander - Backend em Java 
 Este repositório trata-se dos conteúdos do Bootcamp Santander Backend com Java | DIO
 
+<img src="https://github.com/EmersonPenelli/Santander-Bootcamp-Backend-Java/blob/main/assets/images/Capa_Bootcamp_Santander2024.jpg">
 
 <br>
 
