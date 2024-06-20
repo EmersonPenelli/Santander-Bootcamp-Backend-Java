@@ -29,16 +29,24 @@ O Curso consiste em 6 módulos principais:
 
 ## 📝 Seções
 ### 01: Dominando a Linguagem de Programação Java
-    - Modulo 01: Ambiente de Desenvolvimento Java
-    - Modulo 02: Aprendendo a Sintaxe Java
-    - Modulo 03: Em desenvolvimento...
+    - Modulo 01: Aprendendo a Sintaxe Java
+    - Modulo 02: Tipos de Variáveis
+    - Modulo 03: Operadores
+    - Modulo 04: Métodos
+    - Modulo 05: Escopo
+    - Modulo 06: Documentação Java
+    - Modulo 07: Terminal e Argumentos
+    - Modulo 08: Lógica Condicional e Controle de fluxo
 
 ### 02: Programação Orientada a Objetos com Java
-    - Modulo 01: 
+    - Modulo 01: Orientação a Objetos
+    - Modulo 02: Herança, Associação e Interface
+    - Modulo 03: Pacotes de Visibilidade
+    - Modulo 04: Java Collections Framework
 
 
 ### 03: Testes e Gerenciamento de Dependências em Projetos Java
-    - Modulo 01:
+    - Modulo 01: Em desenvolvimento...
 
 <br>
 
